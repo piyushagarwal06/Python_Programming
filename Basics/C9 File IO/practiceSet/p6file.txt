@@ -1,0 +1,6 @@
+Python is a high-level, interpreted programming language known for its simplicity and readability. 
+It is widely used by beginners as well as professionals because its syntax is easy to understand and write. 
+Python supports multiple programming paradigms such as procedural, object-oriented, and functional programming. 
+It is used in various fields like web development, data science, artificial intelligence, machine learning, automation, and game development. 
+Python has a large standard library and a strong community, which makes problem-solving faster and more efficient.
+Due to its versatility and ease of use, Python has become one of the most popular programming languages in the world today.
