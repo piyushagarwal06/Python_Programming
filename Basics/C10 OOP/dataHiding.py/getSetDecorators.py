@@ -1,3 +1,5 @@
+# Property decorators (getter & setter) help in encapsulation.
+# Property decorators allow methods to be accessed like attributes while enabling controlled access using getter and setter methods.
 class Employee:
     @property
     def name(self):
