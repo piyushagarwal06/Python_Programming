@@ -5,6 +5,8 @@ print(t)
 
 #conversion
 b=43
+print(type(b))
 f=str(b)
 g=type(f)
 print(g)
+print(f)
