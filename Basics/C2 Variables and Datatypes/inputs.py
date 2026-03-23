@@ -6,6 +6,9 @@
 
 # print("Sum of a and b is ",(a+b)) output =3344
 
+# In Python, input() always returns a string, not a number.
+
+
 # correct logic
 a=int(input("Enter number 1 "))
 b=int(input("Enter number 2 "))
