@@ -1,2 +1,23 @@
 name= input("Enter your name:")
 print(f"Good Afternoon, {name} ")
+
+
+
+# As we learned in the Python Variables chapter, we cannot combine strings and numbers like this:
+# age = 36
+# #This will produce an error:
+# txt = "My name is John, I am " + age
+# print(txt)
+age = 36
+txt = f"My name is John, I am {age}"
+print(txt)
+
+
+
+price = 59
+txt = f"The price is {price} dollars"
+print(txt)
+txt = f"The price is {price:.11f} dollars"
+print(txt)
+txt = f"The price is {20 * 59} dollars"
+print(txt)
