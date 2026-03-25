@@ -17,3 +17,13 @@ print(l1.insert(2,4543254)) # output=None
 
 print(l1.pop(3))
 print(l1)
+
+l1.append([888, 777]) #[1, 2, 4543254, 34, 55, 62, 134, [888, 777]]
+l1.extend([888,777])  #[1, 2, 4543254, 34, 55, 62, 134, [888, 777], 888, 777]
+print(l1)
+
+
+thislist = ["apple", "banana", "cherry"]
+thistuple = ("kiwi", "orange")
+thislist.extend(thistuple)
+print(thislist)
