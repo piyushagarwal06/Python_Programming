@@ -20,3 +20,6 @@ for x, obj in myfamily.items():
         print(y + ':', obj[y])
 
 print(myfamily["child2"]["name"])
+
+import numpy as np
+print(np.__version__)
